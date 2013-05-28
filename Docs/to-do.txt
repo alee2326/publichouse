@@ -3,6 +3,9 @@ Feature Checklist
 Welcome
 	Brief bio of pH
 
+Residency Program
+	Info for loyalty program
+
 Live Draught Menu
 	-initially pulled from Adam's haxored Keggerface until the real one can be built.
 	
