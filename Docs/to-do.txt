@@ -1,0 +1,33 @@
+Feature Checklist
+
+Welcome
+	Brief bio of pH
+
+Live Draught Menu
+	-initially pulled from Adam's haxored Keggerface until the real one can be built.
+	
+Events/Specials
+	Shows today's special and/or event (who's playing)
+	Calendar of upcoming events (pulled from pH Google Cal)
+	
+About Us
+	Hours
+	Location
+	Contact (form?)
+	
+Slideshow (?)
+	Show photos from recent events, maybe driven from an Instagram and/or Flickr feeds?
+	
+At the Bar right now
+	using Vines api app
+	
+
+Blog(?)
+
+Social Buttons (apart of main header menu and/or footer)
+	
+
+*** Misc Info.
+Needs to be easily updated for
+Videos build on Flowplayer(?) or Vimeo
+Inspired by the layout from http://www.autographer.com/
